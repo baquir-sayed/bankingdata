@@ -1,0 +1,11 @@
+Make a .env file
+
+SSH_HOST=YourIpAddress
+SSH_USER=Username
+SSH_KEY_PATH=/path/to/your/key
+
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=Database name
+DB_USER=Database username
+DB_PASSWORD=Database user password

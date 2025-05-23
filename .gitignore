@@ -2,3 +2,5 @@ venv/
 .env
 testing.py
 *.docx
+__pycache__
+*.pyc
